@@ -1,0 +1,10 @@
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.Entity.dll
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.Entity.pdb
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csproj.CopyComplete

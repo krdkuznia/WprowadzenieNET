@@ -1,0 +1,6 @@
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\bin\Release\MyFirstApplication.exe.config
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\bin\Release\MyFirstApplication.exe
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\bin\Release\MyFirstApplication.pdb
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\obj\Release\MyFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\obj\Release\MyFirstApplication.exe
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication\obj\Release\MyFirstApplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication.Entity\bin\Debug\MyFirstApplication.Entity.dll
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication.Entity\bin\Debug\MyFirstApplication.Entity.pdb
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication.Entity\obj\Debug\MyFirstApplication.Entity.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication.Entity\obj\Debug\MyFirstApplication.Entity.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication.Entity\obj\Debug\MyFirstApplication.Entity.dll
+C:\Users\domin\source\repos\MyFirstApplication\MyFirstApplication.Entity\obj\Debug\MyFirstApplication.Entity.pdb
